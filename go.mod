@@ -1,4 +1,4 @@
-module go-with-game
+module github.com/jinhokong/go-with-game
 
 go 1.13
 
